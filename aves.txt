@@ -3,5 +3,5 @@ Papagaio
 Tucano
 Galinha
 Pelicano
-Pengüim
+Pengüim-imperial
 Sabiá
