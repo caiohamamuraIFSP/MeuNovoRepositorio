@@ -2,3 +2,4 @@ Arara
 Papagaio
 Tucano
 Galinha
+Pelicano
